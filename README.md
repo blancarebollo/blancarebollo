@@ -3,10 +3,10 @@
 ### A passionate Data Scientist 📉 and Criminologist 🕵🏻 from Spain
 
 - 🌱 I’m currently working on my knowledge in Data science and analytics
-- 💬 Ask me about my degrees and my code skills
-- 📫 How to reach me: blanca.rebollocastellanos@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I love music, I play some instruments and I am always up to discover new music
+- 💬 Ask me about criminology, social science and policy topics
+- 📫  blanca.rebollocastellanos@gmail.com
+- 😄 she/her
+- ⚡ I love music, I play some instruments and I am always up to discover new music
 
 
 ### My Skills
@@ -14,7 +14,7 @@
 
 ### You can find me here ⬇️
 
-![Linkedin](https://skillicons.dev/icons?i=linkedin) 
-
-in/blancarebollo/
+<a href="https://linkedin.com/in/blancarebollo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="blancarebollo" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/blancarebollo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="blancarebollo" height="30" width="40" /></a>
+</p>
 
