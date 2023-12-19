@@ -3,7 +3,7 @@
 ### A passionate Data Scientist 📉 and Criminologist 🕵🏻 from Spain
 
 - 🌱 I’m currently working on my knowledge in Data science and analytics
-- 💬 Ask me about criminology, social science and policy topics
+- 💬 Ask me about criminology and social science topics
 - 📫  blanca.rebollocastellanos@gmail.com
 - 😄 she/her
 - ⚡ I love music, I play some instruments and I am always up to discover new music
