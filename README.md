@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently working on my knowledge in Data science and analytics
 - 💬 Ask me about criminology and social science topics
-- 📫  blanca.rebollocastellanos@gmail.com
+- 📫  blanca.r.cstellanos@gmail.com
 - 😄 she/her
 - ⚡ I love music, I play some instruments and I am always up to discover new music
 
