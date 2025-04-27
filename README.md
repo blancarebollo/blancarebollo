@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Blanca
 
-### A Criminologist 🕵🏻 finding love in Data 📉 
+### An Aspiring Data Analyst, Data Scientist and Criminologist 🕵🏻 📉 
 
 - 🌱 I’m currently working on my knowledge in Data science and analytics
 - 💬 Ask me about criminology and social science topics
